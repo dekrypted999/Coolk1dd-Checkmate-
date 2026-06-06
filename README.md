@@ -1,19 +1,17 @@
-# Coolk1dd-Checkmate
+## Supported Devices
 
-Supported Devices:
-# iPhone
-Device	iOS 6 Support	Jailbreak Status
-iPhone 3GS	Yes	Fully Supported
-iPhone 4	Yes	Fully Supported
-iPhone 4S	Yes	Fully Supported
-iPhone 5	Yes	Fully Supported
-# iPad
-Device	iOS 6 Support	Jailbreak Status
-iPad 2	Yes	Fully Supported
-iPad (3rd generation)	Yes	Fully Supported
-iPad (4th generation)	Yes	Fully Supported
-iPad mini (1st generation)	Yes	Fully Supported
-# iPod touch
-Device	iOS 6 Support	Jailbreak Status
-iPod touch (4th generation)	Yes	Fully Supported
-iPod touch (5th generation)	Yes	Fully Supported
+| Device | iOS Version | Status |
+|--------|-------------|--------|
+| **iPhone** |
+| iPhone 3GS | 6.x | ✅ Full Support |
+| iPhone 4 | 6.x | ✅ Full Support |
+| iPhone 4S | 6.x | ✅ Full Support |
+| iPhone 5 | 6.x | ✅ Full Support |
+| **iPad** |
+| iPad 2 | 6.x | ✅ Full Support |
+| iPad (3rd gen) | 6.x | ✅ Full Support |
+| iPad (4th gen) | 6.x | ✅ Full Support |
+| iPad mini (1st gen) | 6.x | ✅ Full Support |
+| **iPod touch** |
+| iPod touch (4th gen) | 6.x | ✅ Full Support |
+| iPod touch (5th gen) | 6.x | ✅ Full Support |
