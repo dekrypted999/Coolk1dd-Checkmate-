@@ -1,5 +1,8 @@
 ## Supported Devices
 
+![iOS 6 Support](https://img.shields.io/badge/iOS-6.x-blue)
+![Status](https://img.shields.io/badge/Status-Full%20Support-brightgreen)
+
 | Device | iOS Version | Status |
 |--------|-------------|--------|
 | **iPhone** |
@@ -16,8 +19,11 @@
 | iPod touch (4th gen) | 6.x | ✅ Full Support |
 | iPod touch (5th gen) | 6.x | ✅ Full Support |
 
-
 ## Requirements
+
+![Windows](https://img.shields.io/badge/Windows-7--11-0078D6)
+![macOS](https://img.shields.io/badge/macOS-10.9%2B-000000)
+![Linux](https://img.shields.io/badge/Linux-Ubuntu%2FDebian-FCC624)
 
 | OS | Required |
 |---|---|
