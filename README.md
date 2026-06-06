@@ -1,3 +1,18 @@
+
+<div align="center">
+
+[![Download](https://img.shields.io/badge/⬇️%20DOWNLOAD%20LATEST%20RELEASE-0078D6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dekrypted999/Coolk1dd-Checkmate-/releases/latest)
+![Version](https://img.shields.io/badge/version-1.0-red?style=for-the-badge)
+
+</div>
+
+## Supported Devices
+
+...
+
+
+
+
 ## Supported Devices
 
 ![iOS 6 Support](https://img.shields.io/badge/iOS-6.x-blue)
